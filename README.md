@@ -4,11 +4,11 @@
 
 Welcome to my GitHub profile! I'm Howard Liu, currently a full-time student pursuing a Master's Degree in Information Security.
 
-- 🔭 I'm actively seeking a Summer 2024 Internship! I'm open to any computing-related opportunities, with roles in security engineering or software development being my preferences.
-- 👨‍💻 Currently, I'm working on a C0 compiler for this semester (unfortunately, the codebase is private!).
+- 🔭 I'm actively seeking a full-time position with an earliest start date in Jan 2025! I'm open to any computing-related opportunities, with roles in security engineering or software development being my preferences.
+- 👨‍💻 Recently, I'm doing some self-study on OSCP certification (OffSec Certified Professional).
 - 📫 You can reach me via email, available on my GitHub profile.
 - 💬 I'm proficient in English, Mandarin, and Cantonese, so feel free to communicate with me in your preferred language! I also had a minor in Japanese, but most of that knowledge has been returned to my lecturer 🤣.
-- 📚 I also maintain my personal blog, which you can find 👉 [**here**](https://blog.ixnet.work).
+- 📚 I also maintain my personal blog, which you can find 👉 [**here**](https://blog.ixnet.work) (in Chinese).
 
 #### Some Technologies Used in Projects and Internships
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
